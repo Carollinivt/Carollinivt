@@ -1,7 +1,7 @@
 ### Oie 👋
 __Boas vindas ao meu perfil 💙💙__
 
- **meu nome é Carollini Vitória**
+ **Meu nome é Carollini Vitória**
  
  **Estou estudando na Alura**
 
