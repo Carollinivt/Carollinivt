@@ -1,4 +1,13 @@
-## Hi there 👋
+### Oie 👋
+__Boas vindas ao meu perfil 💙💙__
+ **meu nome é Carollini Vitória**
+ **Estou estudando na Alura**
+**Estou me desenvolvendo na linguagem JavaScript**
+**Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos**
+
+**Voce pode entrar em contato comigo 📫**
+__00001106459611sp@al.educacao.sp.gov.br__
+
 
 <!--
 **Carollinivt/Carollinivt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
