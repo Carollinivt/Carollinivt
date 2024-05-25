@@ -1,17 +1,16 @@
-### Oie 👋
+### Oie, Meu nome é Carollini Vitória
+
 __Boas vindas ao meu perfil 💙💙__
 
- **Meu nome é Carollini Vitória**
- 
- **Estou estudando na Alura**
+ Estou estudando na Alura
 
-**Estou me desenvolvendo na linguagem JavaScript**
+ Estou me desenvolvendo na linguagem JavaScript
 
-**Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos**
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 **Voce pode entrar em contato comigo 📫**
 
-__00001106459611sp@al.educacao.sp.gov.br__
+00001106459611sp@al.educacao.sp.gov.br
 
 
 <!--
